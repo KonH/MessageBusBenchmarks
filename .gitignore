@@ -30,3 +30,7 @@ ExportedObj/
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# OS specific
+.DS_Store
+Thumbs.db
